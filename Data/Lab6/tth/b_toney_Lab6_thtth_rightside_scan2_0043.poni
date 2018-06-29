@@ -1,0 +1,12 @@
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis 
+# Calibration done at Tue Jun 26 15:24:04 2018
+Detector: Pilatus300kw
+PixelSize1: 0.000172
+PixelSize2: 0.000172
+Distance: 0.8532124500777202
+Poni1: 0.21976782440804069
+Poni2: 0.3373190164141909
+Rot1: 0.17551713401342028
+Rot2: 0.3669502706846032
+Rot3: 8.719995573938443e-08
+Wavelength: 8.85601409974337e-11
