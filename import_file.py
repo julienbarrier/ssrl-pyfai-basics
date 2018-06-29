@@ -13,8 +13,7 @@ import seaborn as sns
 # Fast Azimuthal Integration
 import fabio
 import pyFAI
-from pyFAI.goniometer import GeometryTranslation, GoniometerRefinement,
-Goniometer
+from pyFAI.goniometer import GeometryTranslation, GoniometerRefinement, Goniometer
 
 # Fitting library
 import lmfit
